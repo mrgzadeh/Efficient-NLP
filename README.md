@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------
 
 # KD-NLP
-This repository is a collection of Knowledge Distillation (KD) methods implemented by the Huawei Montreal NLP team. 
+This repository is a collection of Efficient NLP methods implemented by the Huawei Canada NLP team. 
 
 <details><summary>Included Projects</summary><p>
 
